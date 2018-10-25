@@ -1,5 +1,5 @@
 {
-  "name": "create-emotion-styled",
+  "name": "@jfrolich/create-emotion-styled",
   "version": "9.2.8",
   "description": "The styled API for emotion",
   "main": "dist/index.cjs.js",

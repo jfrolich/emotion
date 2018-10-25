@@ -1,5 +1,5 @@
 {
-  "name": "react-emotion",
+  "name": "@jfrolich/react-emotion",
   "version": "9.2.12",
   "description": "The Next Generation of CSS-in-JS, for React projects.",
   "main": "dist/index.cjs.js",
@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "babel-plugin-emotion": "^9.2.11",
-    "create-emotion-styled": "^9.2.8"
+    "@jfrolich/create-emotion-styled": "^9.2.8"
   },
   "peerDependencies": {
     "emotion": "^9.1.3",
